@@ -1,5 +1,5 @@
 pydub
 speechrecognition
-pyaudio
+PyAudio
 streamlit
 Pillow
